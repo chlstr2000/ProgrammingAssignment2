@@ -5,8 +5,7 @@
 
 makeCacheMatrix <- function(x = matrix()) {
 
-}
-fkk
+sf
 
 ## Write a short comment describing this function
 
